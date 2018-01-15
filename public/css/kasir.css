@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+
+}
+h3.bayar-size{
+	margin-top: 50px;
+
+}
+.padding-content{
+	padding-top: 20px;
+}
+h3.total{
+	text-align: left;
+}
+h5.text-align{
+	text-align: left;
+}
